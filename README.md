@@ -28,10 +28,9 @@ Sunburn increases skin cancer risk – this system automates detection for early
 | Moderate Sunburn| 0.85     | 0.88  | 0.86    |
 | Severe Sunburn  | 0.90     | 0.91  | 0.90    |
 
-![Confusion Matrix](images/Confusion_Matrix.png)
-![Accuracy Curve](images/Accuracy_curve.png)
-
-For full details, see [Project Report](docs/Sunburn_Classification_Report.pdf).
+![Confusion Matrix](Sunburn-Project/images/Confusion_Matrix.png)
+![Accuracy Curve](Sunburn-Project/images/Accuracy_curve.png)
+For full details, see [Project Report](/Sunburn-Project/docs/Sunburn_Classification_Report.pdf).
 
 ## Setup and Usage
 1. **Prerequisites**: Google Colab or local Python environment.
