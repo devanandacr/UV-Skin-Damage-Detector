@@ -14,7 +14,8 @@ Sunburn increases skin cancer risk – this system automates detection for early
 - **Performance**: 92% accuracy on test set (see results below).
 - **Deployment**: Flask app with Mediapipe for facial landmark detection and majority voting.
 
-![System Pipeline](images/System_Pipeline.png)
+![System Pipeline](Sunburn-Project/images/System_Pipeline.png)
+
 
 ## Results
 - **Accuracy**: Training ~92%, Validation ~86%.
