@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange?logo=tensorflow)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Repo Size](https://img.shields.io/github/repo-size/YOUR_USERNAME/Sunburn-Classification-AI)](https://github.com/devanandacr/Sunburn-Classification-AI)
+[![Repo Size](https://img.shields.io/github/repo-size/YOUR_USERNAME/Sunburn-Classification-AI)](https://github.com/devanandacr/UV-Skin-Damage-Detector)
 
 An innovative deep learning project to classify sunburn severity (No, Mild, Moderate, Severe) from facial images using ResNet50 enhanced with CBAM. Trained on the HAM10000 dataset and deployed as a Flask web app for real-time predictions.
 
